@@ -1,6 +1,7 @@
 # ESP32-drone-keyboard-control
 Control ESP32 drone using your computer keyboard.
 ## Keyboard control method
+```
 ↑:Forward
 ↓:Back
 ←:Left
@@ -12,3 +13,4 @@ S:Drop
 Tab:take off
 B:stop
 SPACE:landing
+```
