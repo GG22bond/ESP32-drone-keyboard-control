@@ -15,5 +15,5 @@ B:stop
 SPACE:landing
 ```
 ### References
-[1]: https://github.com/01studio-lab/pyDrone
-[2]: https://www.youtube.com/watch?v=LmEcyQnfpDA&t=2187s
+[1] https://github.com/01studio-lab/pyDrone
+[2] https://www.youtube.com/watch?v=LmEcyQnfpDA&t=2187s
